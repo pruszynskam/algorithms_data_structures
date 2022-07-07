@@ -17,6 +17,7 @@ Moving to the bottom costs x seconds, where x is the value of the target cell.
 The task: For each exit point, compute how fast it can be reached by Neo.
 
 Output: A list of m integers (numbers of seconds to reach each exit point).
+Sample input: File input0.txt
 
 ![image](https://user-images.githubusercontent.com/100381554/177749520-fc93cce6-8691-4aa2-aa26-917fc3c7423c.png)
 ![image](https://user-images.githubusercontent.com/100381554/177750251-13078f39-193e-4adf-bef7-151768b4f9b4.png)

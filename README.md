@@ -19,6 +19,6 @@ The task: For each exit point, compute how fast it can be reached by Neo.
 Output: A list of m integers (numbers of seconds to reach each exit point).
 
 ![image](https://user-images.githubusercontent.com/100381554/177749520-fc93cce6-8691-4aa2-aa26-917fc3c7423c.png)
-![image](https://user-images.githubusercontent.com/100381554/177749958-f814b36c-be65-4315-8bca-fa4ccbe78c77.png)
+![image](https://user-images.githubusercontent.com/100381554/177750131-356a37fd-284b-4333-89ae-baeb1952416f.png)
 
 

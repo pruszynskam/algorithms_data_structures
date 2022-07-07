@@ -13,6 +13,9 @@ Every grid cell with coordinates (n-1,j) (for 0 ≤ j < m) is an exit point.
 Neo can move only to the right (from position (i,j) to (i,j+1)), or to the bottom (from position (i,j) to (i+1,j)).
 Moving to the right costs 2*x seconds, where x is the value of the target cell.
 Moving to the bottom costs x seconds, where x is the value of the target cell.
+
 The task: For each exit point, compute how fast it can be reached by Neo.
 
 Output: A list of m integers (numbers of seconds to reach each exit point).
+
+![image](https://user-images.githubusercontent.com/100381554/177749309-3b793015-9269-4d01-b684-a388e501fe0e.png)

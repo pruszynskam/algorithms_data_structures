@@ -42,7 +42,7 @@ The task: For each block, compute the total score after placing it.
 
 Output: A list of n integers (total score after placing each block).
 
-Sample input: File input0.txt
+Sample input: File input1.txt
 
 ![image](https://user-images.githubusercontent.com/100381554/197005963-69e002de-9a1e-40cc-a1ed-3d228cd40511.png)
 ![image](https://user-images.githubusercontent.com/100381554/197006114-c4ba7aaf-e30a-46bd-bcf8-64637614ef0a.png)
